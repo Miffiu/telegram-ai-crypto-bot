@@ -1,1 +1,1 @@
-py ai_bybit_bot.py
+python ai_bybit_bot.py
